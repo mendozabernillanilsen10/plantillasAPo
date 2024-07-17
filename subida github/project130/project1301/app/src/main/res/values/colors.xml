@@ -6,24 +6,8 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
-
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#18a73e</color>
     <color name="grey">#6f6f78</color>
     <color name="light_grey">#ebebeb</color>
-
-
-    <color name="colorPrimary">#E0E0E0</color>
-    <color name="colorPrimaryDark">#A7F557</color>
-    <color name="colorAccent">#D5FCA6</color>
-    <color name="toolbarIconColor">#FFFFFF</color>
-    <color name="loginPageBackgroundColor">#FFFFFF</color>
-    <color name="productGridBackgroundColor">#FFFBFA</color>
-    <color name="textColorPrimary">#442C2E</color>
-    <color name="textInputOutlineColor">#8CF591</color>
-
-    <color name="white">#FFFFFF</color>
-    <color name="light_green">#A5D6A7</color>
-    <color name="green">#66BB6A</color>
-    <color name="dark_green">#388E3C</color>
-    <color name="light_gray">#8BC34A</color>
-
 </resources>
